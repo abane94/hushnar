@@ -12,5 +12,16 @@
     .page>#quartz-body .sidebar.left:has(.explorer) {
         display: flex;
         justify-content: space-between;
+        width: 100%;
+        left: 0;
+        position: fixed;
+    }
+
+    .darkmode {
+        background-color: var(--background-primary);
+        border-radius: 12px;
+        width: 25px;
+        height: 25px;
+        padding-left: 2.5px;
     }
 }
