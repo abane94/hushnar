@@ -8,4 +8,9 @@
     .folder-container div>a, .folder-container div>button, .folder-container div>button>span {
         color: black;
     }
+
+    .page>#quartz-body .sidebar.left:has(.explorer) {
+        display: flex;
+        justify-content: space-between;
+    }
 }
