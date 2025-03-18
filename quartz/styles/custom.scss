@@ -1,4 +1,11 @@
 @use "./base.scss";
 
 // put your custom CSS here!
-@use "./themes"
+@use "./themes";
+
+
+@media (max-width: 800px) {
+    .folder-container div>a, .folder-container div>button, .folder-container div>button>span {
+        color: black;
+    }
+}
