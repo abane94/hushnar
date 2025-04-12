@@ -1,3 +1,6 @@
+---
+draft: "true"
+---
 | ARMOR            | ARMORRATING | COST    | SUPPLY   | EFFECT                                    |
 | ---------------- | ----------- | ------- | -------- | ----------------------------------------- |
 | Hardened Leather | 3           | 30 gold | Uncommon | —                                         |
